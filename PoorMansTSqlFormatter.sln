@@ -25,8 +25,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterNppPlu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterPluginShared", "PoorMansTSqlFormatterPluginShared\PoorMansTSqlFormatterPluginShared.csproj", "{4C350944-937B-4416-8442-3197FC7098F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterLib_35", "PoorMansTSqlFormatterLib\PoorMansTSqlFormatterLib_35.csproj", "{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}"
-EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PoorMansTSqlFormatterWinMergePlugin.Setup", "PoorMansTSqlFormatterWinMergePlugin.Setup\PoorMansTSqlFormatterWinMergePlugin.Setup.vdproj", "{1DBCA552-F3F0-494C-A678-796A1EEDA724}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterSSMSLib", "PoorMansTSqlFormatterSSMSLib\PoorMansTSqlFormatterSSMSLib.csproj", "{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}"
@@ -133,14 +131,6 @@ Global
 		{4C350944-937B-4416-8442-3197FC7098F2}.Release|x64.Build.0 = Release|Any CPU
 		{4C350944-937B-4416-8442-3197FC7098F2}.Release|x86.ActiveCfg = Release|Any CPU
 		{4C350944-937B-4416-8442-3197FC7098F2}.Release|x86.Build.0 = Release|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Debug|PureDotNet.ActiveCfg = Debug|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Debug|PureDotNet.Build.0 = Debug|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|PureDotNet.ActiveCfg = Release|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|PureDotNet.Build.0 = Release|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|x64.ActiveCfg = Release|Any CPU
-		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|x86.ActiveCfg = Release|Any CPU
 		{1DBCA552-F3F0-494C-A678-796A1EEDA724}.Debug|PureDotNet.ActiveCfg = Debug
 		{1DBCA552-F3F0-494C-A678-796A1EEDA724}.Debug|x64.ActiveCfg = Debug
 		{1DBCA552-F3F0-494C-A678-796A1EEDA724}.Debug|x86.ActiveCfg = Debug

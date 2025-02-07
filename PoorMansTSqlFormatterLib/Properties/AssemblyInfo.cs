@@ -23,7 +23,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("PoorMansTSqlFormatterLib")]
-[assembly: AssemblyDescription("A simple free (AGPL) T-SQL formatting library for .Net 2.0.")]
+[assembly: AssemblyDescription("A simple free (AGPL) T-SQL formatting library")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PoorMansTSqlFormatterLib")]
